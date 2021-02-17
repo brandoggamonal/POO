@@ -14,6 +14,10 @@ class Coordenada:
 if __name__ == '__main__':
     coord_1 = Coordenada(3, 30)
     coord_2 = Coordenada(4, 8)
+<<<<<<< HEAD
     print(coord_1)
+=======
+
+>>>>>>> da6cb4079dc0cdd2d92093c3a699ce4ca483675c
     print(coord_1.distancia(coord_2))
     #print(isinstance(3, Coordenada))
